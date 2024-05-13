@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front-end, Back-end, Competitive Programming, Game dev, Blockchain**
 
-- 📫 How to reach me **dkien3202@gmail.com**
+- 📫 How to reach me **kyletran3202@gmail.com**
 
 - ⚡ Fun fact **I love Vim!!!**
 
