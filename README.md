@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kitan23" alt="kitan23" /></a> </p>
 
-- 🌱 I’m currently learning **Clojure, Genetic Programming, Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, and Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://kt23-portfolio.vercel.app/](https://kt23-portfolio.vercel.app/)
 
