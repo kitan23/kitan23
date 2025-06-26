@@ -15,7 +15,12 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/kien-kyle-tran-6615b3216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kien-kyle-tran-6615b3216" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kien-kyle-tran-6615b3216" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kien-kyle-tran-6615b3216" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/hamappdev/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode-hamappdev" height="30" width="40" />
+  </a>
 </p>
 
 ---
