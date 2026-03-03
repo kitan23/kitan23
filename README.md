@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Tran</h1>
-<h3 align="center">A full-stack developer based in Seattle</h3>
+<h3 align="center">A software engineer based in Seattle</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kitan23&label=Profile%20views&color=0e75b6&style=flat" alt="kitan23" />
